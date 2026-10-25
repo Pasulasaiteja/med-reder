@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MediRead AI</string>
+    <string name="app_tagline">Medicine &amp; Prescription Reader</string>
+    <string name="app_description">Photograph a medicine strip or prescription to get a plain-language explanation.</string>
+    <string name="scan_medicine">Scan Medicine Strip</string>
+    <string name="read_prescription">Read Prescription</string>
+    <string name="safety_notice">⚕️ MediRead AI helps explain medical documents. It does not replace a doctor or pharmacist.</string>
+    <string name="disclaimer">This information is for educational purposes only. Always consult your doctor or pharmacist before taking any medication.</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="pick_gallery">Choose from Gallery</string>
+    <string name="analyze">Analyze</string>
+    <string name="retake">Retake</string>
+    <string name="scan_another">Scan Another</string>
+    <string name="analyzing">Analyzing image…</string>
+    <string name="error_no_api_key">API key not configured. Add GEMINI_API_KEY to local.properties.</string>
+    <string name="error_no_image">Please select or capture an image first.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="results_placeholder">Results will appear here</string>
+    <string name="medicine_reader_title">Medicine Strip Reader</string>
+    <string name="prescription_reader_title">Prescription Reader</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="back">Back</string>
+    <string name="about_title">About MediRead AI</string>
+    <string name="about_description">MediRead AI is designed to help people understand medicine packaging and doctor\'s prescriptions. It is intended for elderly people, people with low vision, and anyone who struggles with medical terminology.</string>
+    <string name="unverified_warning">⚠️ UNVERIFIED — Please confirm with your doctor or pharmacist</string>
+</resources>
